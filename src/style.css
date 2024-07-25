@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div {
+    max-width: 1900px;
+    display: flex;
+}
